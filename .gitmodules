@@ -1,0 +1,9 @@
+[submodule "cookbooks/openpne3"]
+	path = cookbooks/openpne3
+	url = git://github.com/77web/openpne3-cookbook
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git://github.com/opscode-cookbooks/mysql
+[submodule "cookbooks/database"]
+	path = cookbooks/database
+	url = git://github.com/opscode-cookbooks/database
