@@ -13,3 +13,6 @@
 [submodule "cookbooks/apache2"]
 	path = cookbooks/apache2
 	url = git://github.com/opscode-cookbooks/apache2
+[submodule "src"]
+	path = src
+	url = git://github.com/openpne/OpenPNE3
