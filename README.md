@@ -26,7 +26,7 @@ see [openpne3-cookbook](https://github.com/77web/openpne3-cookbook/blob/master/R
 Supported OS
 --------------
 
-* presice64
+* precise64
 
 phpmatsuri
 -------------
